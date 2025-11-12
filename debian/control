@@ -29,6 +29,7 @@ Build-Depends:
  qt6-wayland-dev-tools,
  treeland-protocols(>=0.4.1),
  systemd,
+ systemd-dev,
  libdareader-dev,
  libdeepin-pw-check-dev,
  libicu-dev,
